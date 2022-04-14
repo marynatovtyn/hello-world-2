@@ -22,7 +22,7 @@
     z-index: 999;
 }
 
-.header__wrapper {
+.wrapper__header {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -38,7 +38,7 @@
     align-items: center;
     margin-top: 1rem;
 }
-.header__authorization-btn {
+.header__button {
     display: inline-block;
     width: 4.375rem;
     line-height: 2.5rem;
@@ -50,7 +50,7 @@
     margin-right: 27px;
 }
 
-.header__authorization-basket-pic {
+.header__pic {
     width: 19px;
     height: 21px;
 }
